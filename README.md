@@ -1,0 +1,1 @@
+Proyecto para dispositivos IoT, principalmente Sensores, utilizando principios básicos de POO con Asp Net Core, ejercicios con creación de tablas y consultas en SQL, conexión por Entity Framework entre Net Core y SQL Server, end points con API REST.
